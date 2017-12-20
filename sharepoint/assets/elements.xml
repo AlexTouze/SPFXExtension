@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="NoElec"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="b791490e-2614-4b26-8c00-a1fe1ff674ea"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
